@@ -1,0 +1,114 @@
+// extent wire protocol
+
+#ifndef extent_protocol_h
+#define extent_protocol_h
+
+#include "rpc.h"
+
+//lab4
+
+class rextent_protocol
+{
+public:
+  enum xxstatus
+  {
+    OK,
+    RPCERR
+  };
+  typedef int status;
+  enum rpc_numbers
+  {
+    refresh = 0x8001
+  };
+};
+
+class extent_protocol
+{
+public:
+  typedef int status;
+  typedef unsigned long long extentid_t;
+  enum xxstatus
+  {
+    OK,
+    RPCERR,
+    NOENT,
+    IOERR,
+    RETRY
+  };
+  enum rpc_numbers
+  {
+    put = 0x6001,
+    get,
+    getattr,
+    remove,
+    create,
+    flush
+  };
+  enum types
+  {
+    T_DIR = 1,
+    T_FILE,
+    T_SYMLINK
+  };
+
+  struct attr
+  {
+    uint32_t type;
+    unsigned int atime;
+    unsigned int mtime;
+    unsigned int ctime;
+    unsigned int size;
+  };
+  struct str_and_attr
+  {
+    std::string content;
+    extent_protocol::attr attr;
+  };
+};
+
+inline unmarshall &
+operator>>(unmarshall &u, extent_protocol::attr &a)
+{
+  u >> a.type;
+  u >> a.atime;
+  u >> a.mtime;
+  u >> a.ctime;
+  u >> a.size;
+  return u;
+}
+
+inline marshall &
+operator<<(marshall &m, extent_protocol::attr a)
+{
+  m << a.type;
+  m << a.atime;
+  m << a.mtime;
+  m << a.ctime;
+  m << a.size;
+  return m;
+}
+
+inline unmarshall &
+operator>>(unmarshall &u, extent_protocol::str_and_attr &d)
+{
+  u >> d.content;
+  u >> d.attr.type;
+  u >> d.attr.atime;
+  u >> d.attr.mtime;
+  u >> d.attr.ctime;
+  u >> d.attr.size;
+  return u;
+}
+
+inline marshall &
+operator<<(marshall &m, extent_protocol::str_and_attr d)
+{
+  m << d.content;
+  m << d.attr.type;
+  m << d.attr.atime;
+  m << d.attr.mtime;
+  m << d.attr.ctime;
+  m << d.attr.size;
+  return m;
+}
+#endif

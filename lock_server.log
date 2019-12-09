@@ -1,0 +1,903 @@
+acquire 1 request from clt 127.0.0.1:23730
+acquire 1 request from clt 127.0.0.1:27999
+revoke 1 to  clt 127.0.0.1:23730
+1574245365461:	handler_mgr::get_handle trying to bind...127.0.0.1:23730
+1574245365461:	handle_mgr::get_handle bind succeeded 127.0.0.1:23730
+release 1 request from clt 127.0.0.1:23730
+retry 1 to  clt 127.0.0.1:27999
+1574245365462:	handler_mgr::get_handle trying to bind...127.0.0.1:27999
+1574245365462:	handle_mgr::get_handle bind succeeded 127.0.0.1:27999
+acquire 1 request from clt 127.0.0.1:27999
+acquire 1 request from clt 127.0.0.1:23730
+revoke 1 to  clt 127.0.0.1:27999
+release 1 request from clt 127.0.0.1:27999
+retry 1 to  clt 127.0.0.1:23730
+acquire 1 request from clt 127.0.0.1:23730
+acquire 246 request from clt 127.0.0.1:23730
+acquire 247 request from clt 127.0.0.1:23730
+acquire 248 request from clt 127.0.0.1:23730
+acquire 249 request from clt 127.0.0.1:23730
+acquire 250 request from clt 127.0.0.1:23730
+acquire 251 request from clt 127.0.0.1:23730
+acquire 252 request from clt 127.0.0.1:23730
+acquire 253 request from clt 127.0.0.1:23730
+acquire 254 request from clt 127.0.0.1:23730
+acquire 255 request from clt 127.0.0.1:23730
+acquire 256 request from clt 127.0.0.1:23730
+acquire 257 request from clt 127.0.0.1:23730
+acquire 258 request from clt 127.0.0.1:23730
+acquire 259 request from clt 127.0.0.1:23730
+acquire 260 request from clt 127.0.0.1:23730
+RPC STATS: 1:2 7001:21 7002:2 
+acquire 261 request from clt 127.0.0.1:23730
+acquire 262 request from clt 127.0.0.1:23730
+acquire 263 request from clt 127.0.0.1:23730
+acquire 264 request from clt 127.0.0.1:23730
+acquire 265 request from clt 127.0.0.1:23730
+acquire 266 request from clt 127.0.0.1:23730
+acquire 267 request from clt 127.0.0.1:23730
+acquire 268 request from clt 127.0.0.1:23730
+acquire 269 request from clt 127.0.0.1:23730
+acquire 270 request from clt 127.0.0.1:23730
+acquire 271 request from clt 127.0.0.1:23730
+acquire 272 request from clt 127.0.0.1:23730
+acquire 273 request from clt 127.0.0.1:23730
+acquire 274 request from clt 127.0.0.1:23730
+acquire 275 request from clt 127.0.0.1:23730
+acquire 276 request from clt 127.0.0.1:23730
+acquire 277 request from clt 127.0.0.1:23730
+acquire 278 request from clt 127.0.0.1:23730
+acquire 279 request from clt 127.0.0.1:23730
+acquire 280 request from clt 127.0.0.1:23730
+acquire 281 request from clt 127.0.0.1:23730
+acquire 282 request from clt 127.0.0.1:23730
+acquire 284 request from clt 127.0.0.1:23730
+acquire 1 request from clt 127.0.0.1:27999
+revoke 1 to  clt 127.0.0.1:23730
+release 1 request from clt 127.0.0.1:23730
+retry 1 to  clt 127.0.0.1:27999
+RPC STATS: 1:2 7001:45 7002:3 
+acquire 1 request from clt 127.0.0.1:27999
+acquire 288 request from clt 127.0.0.1:27999
+acquire 1 request from clt 127.0.0.1:23730
+revoke 1 to  clt 127.0.0.1:27999
+release 1 request from clt 127.0.0.1:27999
+retry 1 to  clt 127.0.0.1:23730
+acquire 1 request from clt 127.0.0.1:23730
+acquire 291 request from clt 127.0.0.1:23730
+acquire 1 request from clt 127.0.0.1:27999
+revoke 1 to  clt 127.0.0.1:23730
+release 1 request from clt 127.0.0.1:23730
+retry 1 to  clt 127.0.0.1:27999
+acquire 1 request from clt 127.0.0.1:27999
+acquire 292 request from clt 127.0.0.1:27999
+acquire 1 request from clt 127.0.0.1:23730
+revoke 1 to  clt 127.0.0.1:27999
+release 1 request from clt 127.0.0.1:27999
+retry 1 to  clt 127.0.0.1:23730
+acquire 1 request from clt 127.0.0.1:23730
+acquire 293 request from clt 127.0.0.1:23730
+acquire 294 request from clt 127.0.0.1:23730
+acquire 294 request from clt 127.0.0.1:27999
+revoke 294 to  clt 127.0.0.1:23730
+release 294 request from clt 127.0.0.1:23730
+retry 294 to  clt 127.0.0.1:27999
+acquire 294 request from clt 127.0.0.1:27999
+acquire 294 request from clt 127.0.0.1:23730
+revoke 294 to  clt 127.0.0.1:27999
+release 294 request from clt 127.0.0.1:27999
+retry 294 to  clt 127.0.0.1:23730
+acquire 294 request from clt 127.0.0.1:23730
+acquire 293 request from clt 127.0.0.1:27999
+revoke 293 to  clt 127.0.0.1:23730
+release 293 request from clt 127.0.0.1:23730
+retry 293 to  clt 127.0.0.1:27999
+acquire 293 request from clt 127.0.0.1:27999
+acquire 293 request from clt 127.0.0.1:23730
+revoke 293 to  clt 127.0.0.1:27999
+RPC STATS: 1:2 7001:63 7002:10 
+release 293 request from clt 127.0.0.1:27999
+retry 293 to  clt 127.0.0.1:23730
+acquire 293 request from clt 127.0.0.1:23730
+acquire 295 request from clt 127.0.0.1:23730
+acquire 296 request from clt 127.0.0.1:23730
+acquire 293 request from clt 127.0.0.1:27999
+revoke 293 to  clt 127.0.0.1:23730
+release 293 request from clt 127.0.0.1:23730
+retry 293 to  clt 127.0.0.1:27999
+acquire 293 request from clt 127.0.0.1:27999
+acquire 293 request from clt 127.0.0.1:23730
+revoke 293 to  clt 127.0.0.1:27999
+release 293 request from clt 127.0.0.1:27999
+retry 293 to  clt 127.0.0.1:23730
+acquire 293 request from clt 127.0.0.1:23730
+acquire 297 request from clt 127.0.0.1:23730
+acquire 297 request from clt 127.0.0.1:27999
+revoke 297 to  clt 127.0.0.1:23730
+release 297 request from clt 127.0.0.1:23730
+retry 297 to  clt 127.0.0.1:27999
+acquire 297 request from clt 127.0.0.1:27999
+acquire 297 request from clt 127.0.0.1:23730
+revoke 297 to  clt 127.0.0.1:27999
+release 297 request from clt 127.0.0.1:27999
+retry 297 to  clt 127.0.0.1:23730
+acquire 297 request from clt 127.0.0.1:23730
+acquire 293 request from clt 127.0.0.1:27999
+revoke 293 to  clt 127.0.0.1:23730
+release 293 request from clt 127.0.0.1:23730
+retry 293 to  clt 127.0.0.1:27999
+acquire 293 request from clt 127.0.0.1:27999
+acquire 298 request from clt 127.0.0.1:27999
+acquire 299 request from clt 127.0.0.1:27999
+acquire 299 request from clt 127.0.0.1:23730
+revoke 299 to  clt 127.0.0.1:27999
+release 299 request from clt 127.0.0.1:27999
+retry 299 to  clt 127.0.0.1:23730
+acquire 299 request from clt 127.0.0.1:23730
+RPC STATS: 1:2 7001:82 7002:16 
+acquire 299 request from clt 127.0.0.1:27999
+revoke 299 to  clt 127.0.0.1:23730
+release 299 request from clt 127.0.0.1:23730
+retry 299 to  clt 127.0.0.1:27999
+acquire 299 request from clt 127.0.0.1:27999
+acquire 299 request from clt 127.0.0.1:23730
+revoke 299 to  clt 127.0.0.1:27999
+release 299 request from clt 127.0.0.1:27999
+retry 299 to  clt 127.0.0.1:23730
+acquire 299 request from clt 127.0.0.1:23730
+acquire 299 request from clt 127.0.0.1:27999
+revoke 299 to  clt 127.0.0.1:23730
+release 299 request from clt 127.0.0.1:23730
+retry 299 to  clt 127.0.0.1:27999
+acquire 299 request from clt 127.0.0.1:27999
+acquire 293 request from clt 127.0.0.1:23730
+revoke 293 to  clt 127.0.0.1:27999
+release 293 request from clt 127.0.0.1:27999
+retry 293 to  clt 127.0.0.1:23730
+acquire 293 request from clt 127.0.0.1:23730
+acquire 293 request from clt 127.0.0.1:27999
+revoke 293 to  clt 127.0.0.1:23730
+release 293 request from clt 127.0.0.1:23730
+retry 293 to  clt 127.0.0.1:27999
+acquire 293 request from clt 127.0.0.1:27999
+acquire 293 request from clt 127.0.0.1:23730
+revoke 293 to  clt 127.0.0.1:27999
+release 293 request from clt 127.0.0.1:27999
+retry 293 to  clt 127.0.0.1:23730
+acquire 293 request from clt 127.0.0.1:23730
+acquire 293 request from clt 127.0.0.1:27999
+revoke 293 to  clt 127.0.0.1:23730
+release 293 request from clt 127.0.0.1:23730
+retry 293 to  clt 127.0.0.1:27999
+acquire 293 request from clt 127.0.0.1:27999
+acquire 300 request from clt 127.0.0.1:27999
+acquire 293 request from clt 127.0.0.1:23730
+revoke 293 to  clt 127.0.0.1:27999
+release 293 request from clt 127.0.0.1:27999
+retry 293 to  clt 127.0.0.1:23730
+acquire 293 request from clt 127.0.0.1:23730
+RPC STATS: 1:2 7001:99 7002:24 
+acquire 301 request from clt 127.0.0.1:23730
+acquire 293 request from clt 127.0.0.1:27999
+revoke 293 to  clt 127.0.0.1:23730
+release 293 request from clt 127.0.0.1:23730
+retry 293 to  clt 127.0.0.1:27999
+acquire 293 request from clt 127.0.0.1:27999
+acquire 293 request from clt 127.0.0.1:23730
+revoke 293 to  clt 127.0.0.1:27999
+release 293 request from clt 127.0.0.1:27999
+retry 293 to  clt 127.0.0.1:23730
+acquire 293 request from clt 127.0.0.1:23730
+acquire 293 request from clt 127.0.0.1:27999
+revoke 293 to  clt 127.0.0.1:23730
+release 293 request from clt 127.0.0.1:23730
+retry 293 to  clt 127.0.0.1:27999
+acquire 293 request from clt 127.0.0.1:27999
+acquire 293 request from clt 127.0.0.1:23730
+revoke 293 to  clt 127.0.0.1:27999
+release 293 request from clt 127.0.0.1:27999
+retry 293 to  clt 127.0.0.1:23730
+acquire 293 request from clt 127.0.0.1:23730
+acquire 293 request from clt 127.0.0.1:27999
+revoke 293 to  clt 127.0.0.1:23730
+release 293 request from clt 127.0.0.1:23730
+retry 293 to  clt 127.0.0.1:27999
+acquire 293 request from clt 127.0.0.1:27999
+acquire 293 request from clt 127.0.0.1:23730
+revoke 293 to  clt 127.0.0.1:27999
+release 293 request from clt 127.0.0.1:27999
+retry 293 to  clt 127.0.0.1:23730
+acquire 293 request from clt 127.0.0.1:23730
+acquire 302 request from clt 127.0.0.1:23730
+acquire 303 request from clt 127.0.0.1:23730
+acquire 304 request from clt 127.0.0.1:23730
+acquire 305 request from clt 127.0.0.1:23730
+acquire 306 request from clt 127.0.0.1:23730
+acquire 307 request from clt 127.0.0.1:23730
+RPC STATS: 1:2 7001:118 7002:30 
+acquire 308 request from clt 127.0.0.1:23730
+acquire 309 request from clt 127.0.0.1:23730
+acquire 310 request from clt 127.0.0.1:23730
+acquire 311 request from clt 127.0.0.1:23730
+acquire 293 request from clt 127.0.0.1:27999
+revoke 293 to  clt 127.0.0.1:23730
+release 293 request from clt 127.0.0.1:23730
+retry 293 to  clt 127.0.0.1:27999
+acquire 293 request from clt 127.0.0.1:27999
+acquire 312 request from clt 127.0.0.1:27999
+acquire 313 request from clt 127.0.0.1:27999
+acquire 314 request from clt 127.0.0.1:27999
+acquire 315 request from clt 127.0.0.1:27999
+acquire 316 request from clt 127.0.0.1:27999
+acquire 317 request from clt 127.0.0.1:27999
+acquire 318 request from clt 127.0.0.1:27999
+acquire 319 request from clt 127.0.0.1:27999
+acquire 320 request from clt 127.0.0.1:27999
+acquire 321 request from clt 127.0.0.1:27999
+acquire 302 request from clt 127.0.0.1:27999
+revoke 302 to  clt 127.0.0.1:23730
+release 302 request from clt 127.0.0.1:23730
+retry 302 to  clt 127.0.0.1:27999
+acquire 302 request from clt 127.0.0.1:27999
+acquire 303 request from clt 127.0.0.1:27999
+revoke 303 to  clt 127.0.0.1:23730
+release 303 request from clt 127.0.0.1:23730
+retry 303 to  clt 127.0.0.1:27999
+acquire 303 request from clt 127.0.0.1:27999
+acquire 304 request from clt 127.0.0.1:27999
+revoke 304 to  clt 127.0.0.1:23730
+release 304 request from clt 127.0.0.1:23730
+retry 304 to  clt 127.0.0.1:27999
+RPC STATS: 1:2 7001:139 7002:34 
+acquire 304 request from clt 127.0.0.1:27999
+acquire 305 request from clt 127.0.0.1:27999
+revoke 305 to  clt 127.0.0.1:23730
+release 305 request from clt 127.0.0.1:23730
+retry 305 to  clt 127.0.0.1:27999
+acquire 305 request from clt 127.0.0.1:27999
+acquire 306 request from clt 127.0.0.1:27999
+revoke 306 to  clt 127.0.0.1:23730
+release 306 request from clt 127.0.0.1:23730
+retry 306 to  clt 127.0.0.1:27999
+acquire 306 request from clt 127.0.0.1:27999
+acquire 307 request from clt 127.0.0.1:27999
+revoke 307 to  clt 127.0.0.1:23730
+release 307 request from clt 127.0.0.1:23730
+retry 307 to  clt 127.0.0.1:27999
+acquire 307 request from clt 127.0.0.1:27999
+acquire 308 request from clt 127.0.0.1:27999
+revoke 308 to  clt 127.0.0.1:23730
+release 308 request from clt 127.0.0.1:23730
+retry 308 to  clt 127.0.0.1:27999
+acquire 308 request from clt 127.0.0.1:27999
+acquire 309 request from clt 127.0.0.1:27999
+revoke 309 to  clt 127.0.0.1:23730
+release 309 request from clt 127.0.0.1:23730
+retry 309 to  clt 127.0.0.1:27999
+acquire 309 request from clt 127.0.0.1:27999
+acquire 310 request from clt 127.0.0.1:27999
+revoke 310 to  clt 127.0.0.1:23730
+release 310 request from clt 127.0.0.1:23730
+retry 310 to  clt 127.0.0.1:27999
+acquire 310 request from clt 127.0.0.1:27999
+acquire 311 request from clt 127.0.0.1:27999
+revoke 311 to  clt 127.0.0.1:23730
+release 311 request from clt 127.0.0.1:23730
+retry 311 to  clt 127.0.0.1:27999
+acquire 311 request from clt 127.0.0.1:27999
+acquire 302 request from clt 127.0.0.1:23730
+revoke 302 to  clt 127.0.0.1:27999
+release 302 request from clt 127.0.0.1:27999
+retry 302 to  clt 127.0.0.1:23730
+acquire 302 request from clt 127.0.0.1:23730
+RPC STATS: 1:2 7001:156 7002:42 
+acquire 303 request from clt 127.0.0.1:23730
+revoke 303 to  clt 127.0.0.1:27999
+release 303 request from clt 127.0.0.1:27999
+retry 303 to  clt 127.0.0.1:23730
+acquire 303 request from clt 127.0.0.1:23730
+acquire 304 request from clt 127.0.0.1:23730
+revoke 304 to  clt 127.0.0.1:27999
+release 304 request from clt 127.0.0.1:27999
+retry 304 to  clt 127.0.0.1:23730
+acquire 304 request from clt 127.0.0.1:23730
+acquire 305 request from clt 127.0.0.1:23730
+revoke 305 to  clt 127.0.0.1:27999
+release 305 request from clt 127.0.0.1:27999
+retry 305 to  clt 127.0.0.1:23730
+acquire 305 request from clt 127.0.0.1:23730
+acquire 306 request from clt 127.0.0.1:23730
+revoke 306 to  clt 127.0.0.1:27999
+release 306 request from clt 127.0.0.1:27999
+retry 306 to  clt 127.0.0.1:23730
+acquire 306 request from clt 127.0.0.1:23730
+acquire 307 request from clt 127.0.0.1:23730
+revoke 307 to  clt 127.0.0.1:27999
+release 307 request from clt 127.0.0.1:27999
+retry 307 to  clt 127.0.0.1:23730
+acquire 307 request from clt 127.0.0.1:23730
+acquire 308 request from clt 127.0.0.1:23730
+revoke 308 to  clt 127.0.0.1:27999
+release 308 request from clt 127.0.0.1:27999
+retry 308 to  clt 127.0.0.1:23730
+acquire 308 request from clt 127.0.0.1:23730
+acquire 309 request from clt 127.0.0.1:23730
+revoke 309 to  clt 127.0.0.1:27999
+release 309 request from clt 127.0.0.1:27999
+retry 309 to  clt 127.0.0.1:23730
+acquire 309 request from clt 127.0.0.1:23730
+acquire 310 request from clt 127.0.0.1:23730
+revoke 310 to  clt 127.0.0.1:27999
+release 310 request from clt 127.0.0.1:27999
+retry 310 to  clt 127.0.0.1:23730
+acquire 310 request from clt 127.0.0.1:23730
+acquire 311 request from clt 127.0.0.1:23730
+revoke 311 to  clt 127.0.0.1:27999
+RPC STATS: 1:2 7001:172 7002:51 
+release 311 request from clt 127.0.0.1:27999
+retry 311 to  clt 127.0.0.1:23730
+acquire 311 request from clt 127.0.0.1:23730
+acquire 312 request from clt 127.0.0.1:23730
+revoke 312 to  clt 127.0.0.1:27999
+release 312 request from clt 127.0.0.1:27999
+retry 312 to  clt 127.0.0.1:23730
+acquire 312 request from clt 127.0.0.1:23730
+acquire 313 request from clt 127.0.0.1:23730
+revoke 313 to  clt 127.0.0.1:27999
+release 313 request from clt 127.0.0.1:27999
+retry 313 to  clt 127.0.0.1:23730
+acquire 313 request from clt 127.0.0.1:23730
+acquire 314 request from clt 127.0.0.1:23730
+revoke 314 to  clt 127.0.0.1:27999
+release 314 request from clt 127.0.0.1:27999
+retry 314 to  clt 127.0.0.1:23730
+acquire 314 request from clt 127.0.0.1:23730
+acquire 315 request from clt 127.0.0.1:23730
+revoke 315 to  clt 127.0.0.1:27999
+release 315 request from clt 127.0.0.1:27999
+retry 315 to  clt 127.0.0.1:23730
+acquire 315 request from clt 127.0.0.1:23730
+acquire 316 request from clt 127.0.0.1:23730
+revoke 316 to  clt 127.0.0.1:27999
+release 316 request from clt 127.0.0.1:27999
+retry 316 to  clt 127.0.0.1:23730
+acquire 316 request from clt 127.0.0.1:23730
+acquire 317 request from clt 127.0.0.1:23730
+revoke 317 to  clt 127.0.0.1:27999
+release 317 request from clt 127.0.0.1:27999
+retry 317 to  clt 127.0.0.1:23730
+acquire 317 request from clt 127.0.0.1:23730
+acquire 318 request from clt 127.0.0.1:23730
+revoke 318 to  clt 127.0.0.1:27999
+release 318 request from clt 127.0.0.1:27999
+retry 318 to  clt 127.0.0.1:23730
+acquire 318 request from clt 127.0.0.1:23730
+acquire 319 request from clt 127.0.0.1:23730
+revoke 319 to  clt 127.0.0.1:27999
+release 319 request from clt 127.0.0.1:27999
+retry 319 to  clt 127.0.0.1:23730
+RPC STATS: 1:2 7001:189 7002:59 
+acquire 319 request from clt 127.0.0.1:23730
+acquire 320 request from clt 127.0.0.1:23730
+revoke 320 to  clt 127.0.0.1:27999
+release 320 request from clt 127.0.0.1:27999
+retry 320 to  clt 127.0.0.1:23730
+acquire 320 request from clt 127.0.0.1:23730
+acquire 321 request from clt 127.0.0.1:23730
+revoke 321 to  clt 127.0.0.1:27999
+release 321 request from clt 127.0.0.1:27999
+retry 321 to  clt 127.0.0.1:23730
+acquire 321 request from clt 127.0.0.1:23730
+acquire 293 request from clt 127.0.0.1:23730
+revoke 293 to  clt 127.0.0.1:27999
+release 293 request from clt 127.0.0.1:27999
+retry 293 to  clt 127.0.0.1:23730
+acquire 293 request from clt 127.0.0.1:23730
+acquire 293 request from clt 127.0.0.1:27999
+revoke 293 to  clt 127.0.0.1:23730
+release 293 request from clt 127.0.0.1:23730
+retry 293 to  clt 127.0.0.1:27999
+acquire 293 request from clt 127.0.0.1:27999
+acquire 293 request from clt 127.0.0.1:23730
+revoke 293 to  clt 127.0.0.1:27999
+release 293 request from clt 127.0.0.1:27999
+retry 293 to  clt 127.0.0.1:23730
+acquire 293 request from clt 127.0.0.1:23730
+acquire 322 request from clt 127.0.0.1:23730
+acquire 322 request from clt 127.0.0.1:27999
+revoke 322 to  clt 127.0.0.1:23730
+release 322 request from clt 127.0.0.1:23730
+retry 322 to  clt 127.0.0.1:27999
+acquire 322 request from clt 127.0.0.1:27999
+acquire 323 request from clt 127.0.0.1:23730
+acquire 324 request from clt 127.0.0.1:23730
+acquire 325 request from clt 127.0.0.1:23730
+acquire 326 request from clt 127.0.0.1:23730
+acquire 323 request from clt 127.0.0.1:27999
+revoke 323 to  clt 127.0.0.1:23730
+RPC STATS: 1:2 7001:207 7002:66 
+release 323 request from clt 127.0.0.1:23730
+retry 323 to  clt 127.0.0.1:27999
+acquire 323 request from clt 127.0.0.1:27999
+acquire 327 request from clt 127.0.0.1:27999
+acquire 328 request from clt 127.0.0.1:27999
+acquire 329 request from clt 127.0.0.1:27999
+acquire 323 request from clt 127.0.0.1:23730
+revoke 323 to  clt 127.0.0.1:27999
+release 323 request from clt 127.0.0.1:27999
+retry 323 to  clt 127.0.0.1:23730
+acquire 330 request from clt 127.0.0.1:27999
+acquire 323 request from clt 127.0.0.1:23730
+acquire 331 request from clt 127.0.0.1:23730
+acquire 323 request from clt 127.0.0.1:27999
+revoke 323 to  clt 127.0.0.1:23730
+release 323 request from clt 127.0.0.1:23730
+retry 323 to  clt 127.0.0.1:27999
+acquire 323 request from clt 127.0.0.1:27999
+acquire 323 request from clt 127.0.0.1:23730
+revoke 323 to  clt 127.0.0.1:27999
+release 323 request from clt 127.0.0.1:27999
+retry 323 to  clt 127.0.0.1:23730
+acquire 332 request from clt 127.0.0.1:27999
+acquire 323 request from clt 127.0.0.1:23730
+acquire 333 request from clt 127.0.0.1:23730
+acquire 323 request from clt 127.0.0.1:27999
+revoke 323 to  clt 127.0.0.1:23730
+release 323 request from clt 127.0.0.1:23730
+retry 323 to  clt 127.0.0.1:27999
+acquire 323 request from clt 127.0.0.1:27999
+acquire 323 request from clt 127.0.0.1:23730
+revoke 323 to  clt 127.0.0.1:27999
+release 323 request from clt 127.0.0.1:27999
+retry 323 to  clt 127.0.0.1:23730
+acquire 334 request from clt 127.0.0.1:27999
+acquire 323 request from clt 127.0.0.1:23730
+RPC STATS: 1:2 7001:227 7002:71 
+acquire 335 request from clt 127.0.0.1:23730
+acquire 323 request from clt 127.0.0.1:27999
+revoke 323 to  clt 127.0.0.1:23730
+release 323 request from clt 127.0.0.1:23730
+retry 323 to  clt 127.0.0.1:27999
+acquire 323 request from clt 127.0.0.1:27999
+acquire 323 request from clt 127.0.0.1:23730
+revoke 323 to  clt 127.0.0.1:27999
+release 323 request from clt 127.0.0.1:27999
+retry 323 to  clt 127.0.0.1:23730
+acquire 336 request from clt 127.0.0.1:27999
+acquire 323 request from clt 127.0.0.1:23730
+acquire 337 request from clt 127.0.0.1:23730
+acquire 323 request from clt 127.0.0.1:27999
+revoke 323 to  clt 127.0.0.1:23730
+release 323 request from clt 127.0.0.1:23730
+retry 323 to  clt 127.0.0.1:27999
+acquire 323 request from clt 127.0.0.1:27999
+acquire 323 request from clt 127.0.0.1:23730
+revoke 323 to  clt 127.0.0.1:27999
+release 323 request from clt 127.0.0.1:27999
+retry 323 to  clt 127.0.0.1:23730
+acquire 323 request from clt 127.0.0.1:23730
+acquire 338 request from clt 127.0.0.1:27999
+acquire 339 request from clt 127.0.0.1:23730
+acquire 323 request from clt 127.0.0.1:27999
+revoke 323 to  clt 127.0.0.1:23730
+release 323 request from clt 127.0.0.1:23730
+retry 323 to  clt 127.0.0.1:27999
+acquire 323 request from clt 127.0.0.1:27999
+acquire 323 request from clt 127.0.0.1:23730
+revoke 323 to  clt 127.0.0.1:27999
+release 323 request from clt 127.0.0.1:27999
+retry 323 to  clt 127.0.0.1:23730
+acquire 340 request from clt 127.0.0.1:27999
+acquire 323 request from clt 127.0.0.1:23730
+acquire 341 request from clt 127.0.0.1:23730
+RPC STATS: 1:2 7001:246 7002:77 
+acquire 342 request from clt 127.0.0.1:23730
+acquire 323 request from clt 127.0.0.1:27999
+revoke 323 to  clt 127.0.0.1:23730
+release 323 request from clt 127.0.0.1:23730
+retry 323 to  clt 127.0.0.1:27999
+acquire 323 request from clt 127.0.0.1:27999
+acquire 343 request from clt 127.0.0.1:27999
+acquire 323 request from clt 127.0.0.1:23730
+revoke 323 to  clt 127.0.0.1:27999
+release 323 request from clt 127.0.0.1:27999
+retry 323 to  clt 127.0.0.1:23730
+acquire 323 request from clt 127.0.0.1:23730
+acquire 327 request from clt 127.0.0.1:23730
+revoke 327 to  clt 127.0.0.1:27999
+release 327 request from clt 127.0.0.1:27999
+retry 327 to  clt 127.0.0.1:23730
+acquire 327 request from clt 127.0.0.1:23730
+acquire 328 request from clt 127.0.0.1:23730
+revoke 328 to  clt 127.0.0.1:27999
+release 328 request from clt 127.0.0.1:27999
+retry 328 to  clt 127.0.0.1:23730
+acquire 328 request from clt 127.0.0.1:23730
+acquire 329 request from clt 127.0.0.1:23730
+revoke 329 to  clt 127.0.0.1:27999
+release 329 request from clt 127.0.0.1:27999
+retry 329 to  clt 127.0.0.1:23730
+acquire 329 request from clt 127.0.0.1:23730
+acquire 330 request from clt 127.0.0.1:23730
+revoke 330 to  clt 127.0.0.1:27999
+release 330 request from clt 127.0.0.1:27999
+retry 330 to  clt 127.0.0.1:23730
+acquire 330 request from clt 127.0.0.1:23730
+acquire 332 request from clt 127.0.0.1:23730
+revoke 332 to  clt 127.0.0.1:27999
+release 332 request from clt 127.0.0.1:27999
+retry 332 to  clt 127.0.0.1:23730
+acquire 332 request from clt 127.0.0.1:23730
+acquire 334 request from clt 127.0.0.1:23730
+revoke 334 to  clt 127.0.0.1:27999
+release 334 request from clt 127.0.0.1:27999
+retry 334 to  clt 127.0.0.1:23730
+RPC STATS: 1:2 7001:263 7002:85 
+acquire 334 request from clt 127.0.0.1:23730
+acquire 336 request from clt 127.0.0.1:23730
+revoke 336 to  clt 127.0.0.1:27999
+release 336 request from clt 127.0.0.1:27999
+retry 336 to  clt 127.0.0.1:23730
+acquire 336 request from clt 127.0.0.1:23730
+acquire 338 request from clt 127.0.0.1:23730
+revoke 338 to  clt 127.0.0.1:27999
+release 338 request from clt 127.0.0.1:27999
+retry 338 to  clt 127.0.0.1:23730
+acquire 338 request from clt 127.0.0.1:23730
+acquire 340 request from clt 127.0.0.1:23730
+revoke 340 to  clt 127.0.0.1:27999
+release 340 request from clt 127.0.0.1:27999
+retry 340 to  clt 127.0.0.1:23730
+acquire 340 request from clt 127.0.0.1:23730
+acquire 343 request from clt 127.0.0.1:23730
+revoke 343 to  clt 127.0.0.1:27999
+release 343 request from clt 127.0.0.1:27999
+retry 343 to  clt 127.0.0.1:23730
+acquire 343 request from clt 127.0.0.1:23730
+acquire 324 request from clt 127.0.0.1:27999
+revoke 324 to  clt 127.0.0.1:23730
+release 324 request from clt 127.0.0.1:23730
+retry 324 to  clt 127.0.0.1:27999
+acquire 324 request from clt 127.0.0.1:27999
+acquire 325 request from clt 127.0.0.1:27999
+revoke 325 to  clt 127.0.0.1:23730
+release 325 request from clt 127.0.0.1:23730
+retry 325 to  clt 127.0.0.1:27999
+acquire 325 request from clt 127.0.0.1:27999
+acquire 326 request from clt 127.0.0.1:27999
+revoke 326 to  clt 127.0.0.1:23730
+release 326 request from clt 127.0.0.1:23730
+retry 326 to  clt 127.0.0.1:27999
+acquire 326 request from clt 127.0.0.1:27999
+acquire 331 request from clt 127.0.0.1:27999
+revoke 331 to  clt 127.0.0.1:23730
+release 331 request from clt 127.0.0.1:23730
+retry 331 to  clt 127.0.0.1:27999
+acquire 331 request from clt 127.0.0.1:27999
+RPC STATS: 1:2 7001:280 7002:93 
+acquire 333 request from clt 127.0.0.1:27999
+revoke 333 to  clt 127.0.0.1:23730
+release 333 request from clt 127.0.0.1:23730
+retry 333 to  clt 127.0.0.1:27999
+acquire 333 request from clt 127.0.0.1:27999
+acquire 335 request from clt 127.0.0.1:27999
+revoke 335 to  clt 127.0.0.1:23730
+release 335 request from clt 127.0.0.1:23730
+retry 335 to  clt 127.0.0.1:27999
+acquire 335 request from clt 127.0.0.1:27999
+acquire 337 request from clt 127.0.0.1:27999
+revoke 337 to  clt 127.0.0.1:23730
+release 337 request from clt 127.0.0.1:23730
+retry 337 to  clt 127.0.0.1:27999
+acquire 337 request from clt 127.0.0.1:27999
+acquire 339 request from clt 127.0.0.1:27999
+revoke 339 to  clt 127.0.0.1:23730
+release 339 request from clt 127.0.0.1:23730
+retry 339 to  clt 127.0.0.1:27999
+acquire 339 request from clt 127.0.0.1:27999
+acquire 341 request from clt 127.0.0.1:27999
+revoke 341 to  clt 127.0.0.1:23730
+release 341 request from clt 127.0.0.1:23730
+retry 341 to  clt 127.0.0.1:27999
+acquire 341 request from clt 127.0.0.1:27999
+acquire 342 request from clt 127.0.0.1:27999
+revoke 342 to  clt 127.0.0.1:23730
+release 342 request from clt 127.0.0.1:23730
+retry 342 to  clt 127.0.0.1:27999
+acquire 342 request from clt 127.0.0.1:27999
+acquire 344 request from clt 127.0.0.1:23730
+acquire 344 request from clt 127.0.0.1:27999
+revoke 344 to  clt 127.0.0.1:23730
+release 344 request from clt 127.0.0.1:23730
+retry 344 to  clt 127.0.0.1:27999
+acquire 344 request from clt 127.0.0.1:27999
+acquire 323 request from clt 127.0.0.1:27999
+revoke 323 to  clt 127.0.0.1:23730
+release 323 request from clt 127.0.0.1:23730
+retry 323 to  clt 127.0.0.1:27999
+acquire 323 request from clt 127.0.0.1:27999
+RPC STATS: 1:2 7001:297 7002:101 
+acquire 323 request from clt 127.0.0.1:23730
+revoke 323 to  clt 127.0.0.1:27999
+release 323 request from clt 127.0.0.1:27999
+retry 323 to  clt 127.0.0.1:23730
+acquire 345 request from clt 127.0.0.1:27999
+acquire 323 request from clt 127.0.0.1:27999
+acquire 323 request from clt 127.0.0.1:23730
+revoke 323 to  clt 127.0.0.1:23730
+release 323 request from clt 127.0.0.1:23730
+retry 323 to  clt 127.0.0.1:27999
+acquire 323 request from clt 127.0.0.1:27999
+acquire 346 request from clt 127.0.0.1:27999
+acquire 347 request from clt 127.0.0.1:27999
+acquire 346 request from clt 127.0.0.1:23730
+revoke 346 to  clt 127.0.0.1:27999
+release 346 request from clt 127.0.0.1:27999
+retry 346 to  clt 127.0.0.1:23730
+acquire 346 request from clt 127.0.0.1:23730
+acquire 347 request from clt 127.0.0.1:23730
+revoke 347 to  clt 127.0.0.1:27999
+release 347 request from clt 127.0.0.1:27999
+retry 347 to  clt 127.0.0.1:23730
+acquire 348 request from clt 127.0.0.1:27999
+acquire 347 request from clt 127.0.0.1:23730
+acquire 349 request from clt 127.0.0.1:27999
+acquire 348 request from clt 127.0.0.1:23730
+revoke 348 to  clt 127.0.0.1:27999
+release 348 request from clt 127.0.0.1:27999
+retry 348 to  clt 127.0.0.1:23730
+acquire 348 request from clt 127.0.0.1:23730
+acquire 350 request from clt 127.0.0.1:27999
+acquire 349 request from clt 127.0.0.1:23730
+revoke 349 to  clt 127.0.0.1:27999
+acquire 351 request from clt 127.0.0.1:27999
+acquire 352 request from clt 127.0.0.1:27999
+acquire 353 request from clt 127.0.0.1:27999
+RPC STATS: 1:2 7001:316 7002:107 
+release 349 request from clt 127.0.0.1:27999
+retry 349 to  clt 127.0.0.1:23730
+acquire 349 request from clt 127.0.0.1:23730
+acquire 350 request from clt 127.0.0.1:23730
+revoke 350 to  clt 127.0.0.1:27999
+release 350 request from clt 127.0.0.1:27999
+retry 350 to  clt 127.0.0.1:23730
+acquire 350 request from clt 127.0.0.1:23730
+acquire 351 request from clt 127.0.0.1:23730
+revoke 351 to  clt 127.0.0.1:27999
+release 351 request from clt 127.0.0.1:27999
+retry 351 to  clt 127.0.0.1:23730
+acquire 351 request from clt 127.0.0.1:23730
+acquire 352 request from clt 127.0.0.1:23730
+revoke 352 to  clt 127.0.0.1:27999
+release 352 request from clt 127.0.0.1:27999
+retry 352 to  clt 127.0.0.1:23730
+acquire 352 request from clt 127.0.0.1:23730
+acquire 353 request from clt 127.0.0.1:23730
+revoke 353 to  clt 127.0.0.1:27999
+release 353 request from clt 127.0.0.1:27999
+retry 353 to  clt 127.0.0.1:23730
+acquire 353 request from clt 127.0.0.1:23730
+acquire 323 request from clt 127.0.0.1:23730
+revoke 323 to  clt 127.0.0.1:27999
+release 323 request from clt 127.0.0.1:27999
+retry 323 to  clt 127.0.0.1:23730
+acquire 323 request from clt 127.0.0.1:23730
+acquire 344 request from clt 127.0.0.1:23730
+revoke 344 to  clt 127.0.0.1:27999
+release 344 request from clt 127.0.0.1:27999
+retry 344 to  clt 127.0.0.1:23730
+acquire 344 request from clt 127.0.0.1:23730
+acquire 345 request from clt 127.0.0.1:23730
+revoke 345 to  clt 127.0.0.1:27999
+release 345 request from clt 127.0.0.1:27999
+retry 345 to  clt 127.0.0.1:23730
+acquire 345 request from clt 127.0.0.1:23730
+acquire 344 request from clt 127.0.0.1:27999
+revoke 344 to  clt 127.0.0.1:23730
+release 344 request from clt 127.0.0.1:23730
+retry 344 to  clt 127.0.0.1:27999
+RPC STATS: 1:2 7001:333 7002:115 
+acquire 344 request from clt 127.0.0.1:27999
+acquire 345 request from clt 127.0.0.1:27999
+revoke 345 to  clt 127.0.0.1:23730
+release 345 request from clt 127.0.0.1:23730
+retry 345 to  clt 127.0.0.1:27999
+acquire 345 request from clt 127.0.0.1:27999
+acquire 346 request from clt 127.0.0.1:27999
+revoke 346 to  clt 127.0.0.1:23730
+release 346 request from clt 127.0.0.1:23730
+retry 346 to  clt 127.0.0.1:27999
+acquire 346 request from clt 127.0.0.1:27999
+acquire 347 request from clt 127.0.0.1:27999
+revoke 347 to  clt 127.0.0.1:23730
+release 347 request from clt 127.0.0.1:23730
+retry 347 to  clt 127.0.0.1:27999
+acquire 347 request from clt 127.0.0.1:27999
+acquire 348 request from clt 127.0.0.1:27999
+revoke 348 to  clt 127.0.0.1:23730
+release 348 request from clt 127.0.0.1:23730
+retry 348 to  clt 127.0.0.1:27999
+acquire 348 request from clt 127.0.0.1:27999
+acquire 349 request from clt 127.0.0.1:27999
+revoke 349 to  clt 127.0.0.1:23730
+release 349 request from clt 127.0.0.1:23730
+retry 349 to  clt 127.0.0.1:27999
+acquire 349 request from clt 127.0.0.1:27999
+acquire 350 request from clt 127.0.0.1:27999
+revoke 350 to  clt 127.0.0.1:23730
+release 350 request from clt 127.0.0.1:23730
+retry 350 to  clt 127.0.0.1:27999
+acquire 350 request from clt 127.0.0.1:27999
+acquire 351 request from clt 127.0.0.1:27999
+revoke 351 to  clt 127.0.0.1:23730
+release 351 request from clt 127.0.0.1:23730
+retry 351 to  clt 127.0.0.1:27999
+acquire 351 request from clt 127.0.0.1:27999
+acquire 352 request from clt 127.0.0.1:27999
+revoke 352 to  clt 127.0.0.1:23730
+release 352 request from clt 127.0.0.1:23730
+retry 352 to  clt 127.0.0.1:27999
+acquire 352 request from clt 127.0.0.1:27999
+RPC STATS: 1:2 7001:350 7002:123 
+acquire 353 request from clt 127.0.0.1:27999
+revoke 353 to  clt 127.0.0.1:23730
+release 353 request from clt 127.0.0.1:23730
+retry 353 to  clt 127.0.0.1:27999
+acquire 353 request from clt 127.0.0.1:27999
+acquire 354 request from clt 127.0.0.1:23730
+acquire 355 request from clt 127.0.0.1:23730
+acquire 356 request from clt 127.0.0.1:23730
+acquire 357 request from clt 127.0.0.1:23730
+acquire 358 request from clt 127.0.0.1:23730
+acquire 323 request from clt 127.0.0.1:27999
+revoke 323 to  clt 127.0.0.1:23730
+release 323 request from clt 127.0.0.1:23730
+retry 323 to  clt 127.0.0.1:27999
+acquire 323 request from clt 127.0.0.1:27999
+acquire 359 request from clt 127.0.0.1:27999
+acquire 360 request from clt 127.0.0.1:27999
+acquire 361 request from clt 127.0.0.1:27999
+acquire 362 request from clt 127.0.0.1:27999
+acquire 363 request from clt 127.0.0.1:27999
+acquire 323 request from clt 127.0.0.1:23730
+revoke 323 to  clt 127.0.0.1:27999
+release 323 request from clt 127.0.0.1:27999
+retry 323 to  clt 127.0.0.1:23730
+acquire 323 request from clt 127.0.0.1:23730
+acquire 364 request from clt 127.0.0.1:23730
+acquire 365 request from clt 127.0.0.1:23730
+acquire 323 request from clt 127.0.0.1:27999
+revoke 323 to  clt 127.0.0.1:23730
+acquire 366 request from clt 127.0.0.1:23730
+acquire 367 request from clt 127.0.0.1:23730
+release 323 request from clt 127.0.0.1:23730
+retry 323 to  clt 127.0.0.1:27999
+RPC STATS: 1:2 7001:371 7002:127 
+acquire 323 request from clt 127.0.0.1:27999
+acquire 323 request from clt 127.0.0.1:23730
+revoke 323 to  clt 127.0.0.1:27999
+release 323 request from clt 127.0.0.1:27999
+retry 323 to  clt 127.0.0.1:23730
+acquire 323 request from clt 127.0.0.1:23730
+acquire 323 request from clt 127.0.0.1:27999
+revoke 323 to  clt 127.0.0.1:23730
+release 323 request from clt 127.0.0.1:23730
+retry 323 to  clt 127.0.0.1:27999
+acquire 323 request from clt 127.0.0.1:27999
+acquire 368 request from clt 127.0.0.1:23730
+acquire 323 request from clt 127.0.0.1:23730
+revoke 323 to  clt 127.0.0.1:27999
+release 323 request from clt 127.0.0.1:27999
+retry 323 to  clt 127.0.0.1:23730
+acquire 323 request from clt 127.0.0.1:23730
+acquire 369 request from clt 127.0.0.1:23730
+acquire 370 request from clt 127.0.0.1:23730
+acquire 371 request from clt 127.0.0.1:23730
+acquire 372 request from clt 127.0.0.1:23730
+acquire 373 request from clt 127.0.0.1:23730
+acquire 323 request from clt 127.0.0.1:27999
+revoke 323 to  clt 127.0.0.1:23730
+release 323 request from clt 127.0.0.1:23730
+retry 323 to  clt 127.0.0.1:27999
+acquire 323 request from clt 127.0.0.1:27999
+acquire 323 request from clt 127.0.0.1:23730
+revoke 323 to  clt 127.0.0.1:27999
+release 323 request from clt 127.0.0.1:27999
+retry 323 to  clt 127.0.0.1:23730
+acquire 323 request from clt 127.0.0.1:23730
+acquire 374 request from clt 127.0.0.1:23730
+acquire 375 request from clt 127.0.0.1:23730
+acquire 376 request from clt 127.0.0.1:23730
+RPC STATS: 1:2 7001:391 7002:132 
+acquire 377 request from clt 127.0.0.1:23730
+acquire 378 request from clt 127.0.0.1:23730
+acquire 379 request from clt 127.0.0.1:23730
+acquire 380 request from clt 127.0.0.1:23730
+acquire 381 request from clt 127.0.0.1:23730
+acquire 382 request from clt 127.0.0.1:23730
+acquire 383 request from clt 127.0.0.1:23730
+acquire 384 request from clt 127.0.0.1:23730
+acquire 384 request from clt 127.0.0.1:27999
+revoke 384 to  clt 127.0.0.1:23730
+release 384 request from clt 127.0.0.1:23730
+retry 384 to  clt 127.0.0.1:27999
+acquire 384 request from clt 127.0.0.1:27999
+acquire 384 request from clt 127.0.0.1:23730
+revoke 384 to  clt 127.0.0.1:27999
+release 384 request from clt 127.0.0.1:27999
+retry 384 to  clt 127.0.0.1:23730
+acquire 384 request from clt 127.0.0.1:23730
+acquire 384 request from clt 127.0.0.1:27999
+revoke 384 to  clt 127.0.0.1:23730
+release 384 request from clt 127.0.0.1:23730
+retry 384 to  clt 127.0.0.1:27999
+acquire 384 request from clt 127.0.0.1:27999
+acquire 384 request from clt 127.0.0.1:23730
+revoke 384 to  clt 127.0.0.1:27999
+release 384 request from clt 127.0.0.1:27999
+retry 384 to  clt 127.0.0.1:23730
+acquire 384 request from clt 127.0.0.1:23730
+acquire 384 request from clt 127.0.0.1:27999
+revoke 384 to  clt 127.0.0.1:23730
+release 384 request from clt 127.0.0.1:23730
+retry 384 to  clt 127.0.0.1:27999
+acquire 384 request from clt 127.0.0.1:27999
+acquire 384 request from clt 127.0.0.1:23730
+revoke 384 to  clt 127.0.0.1:27999
+release 384 request from clt 127.0.0.1:27999
+retry 384 to  clt 127.0.0.1:23730
+RPC STATS: 1:2 7001:410 7002:138 
+acquire 384 request from clt 127.0.0.1:23730
+acquire 384 request from clt 127.0.0.1:27999
+revoke 384 to  clt 127.0.0.1:23730
+release 384 request from clt 127.0.0.1:23730
+retry 384 to  clt 127.0.0.1:27999
+acquire 384 request from clt 127.0.0.1:27999
+acquire 384 request from clt 127.0.0.1:23730
+revoke 384 to  clt 127.0.0.1:27999
+release 384 request from clt 127.0.0.1:27999
+retry 384 to  clt 127.0.0.1:23730
+acquire 384 request from clt 127.0.0.1:23730
+acquire 384 request from clt 127.0.0.1:27999
+revoke 384 to  clt 127.0.0.1:23730
+release 384 request from clt 127.0.0.1:23730
+retry 384 to  clt 127.0.0.1:27999
+acquire 384 request from clt 127.0.0.1:27999
+acquire 384 request from clt 127.0.0.1:23730
+revoke 384 to  clt 127.0.0.1:27999
+release 384 request from clt 127.0.0.1:27999
+retry 384 to  clt 127.0.0.1:23730
+acquire 384 request from clt 127.0.0.1:23730
+acquire 384 request from clt 127.0.0.1:27999
+revoke 384 to  clt 127.0.0.1:23730
+release 384 request from clt 127.0.0.1:23730
+retry 384 to  clt 127.0.0.1:27999
+acquire 384 request from clt 127.0.0.1:27999
+acquire 1 request from clt 127.0.0.1:27999
+revoke 1 to  clt 127.0.0.1:23730
+release 1 request from clt 127.0.0.1:23730
+retry 1 to  clt 127.0.0.1:27999
+acquire 1 request from clt 127.0.0.1:27999
+acquire 385 request from clt 127.0.0.1:23730
+acquire 387 request from clt 127.0.0.1:23730
+acquire 388 request from clt 127.0.0.1:23730
+acquire 386 request from clt 127.0.0.1:27999
+acquire 389 request from clt 127.0.0.1:27999
+acquire 390 request from clt 127.0.0.1:27999
+RPC STATS: 1:2 7001:429 7002:144 
+acquire 391 request from clt 127.0.0.1:27999
+acquire 392 request from clt 127.0.0.1:27999
+acquire 393 request from clt 127.0.0.1:27999
+acquire 394 request from clt 127.0.0.1:23730
+acquire 395 request from clt 127.0.0.1:27999
+acquire 396 request from clt 127.0.0.1:23730
+acquire 397 request from clt 127.0.0.1:27999
+acquire 398 request from clt 127.0.0.1:23730
+acquire 399 request from clt 127.0.0.1:27999
+acquire 400 request from clt 127.0.0.1:23730
+acquire 401 request from clt 127.0.0.1:27999
+acquire 402 request from clt 127.0.0.1:23730
+acquire 403 request from clt 127.0.0.1:27999
+acquire 404 request from clt 127.0.0.1:23730
+acquire 405 request from clt 127.0.0.1:23730
+acquire 406 request from clt 127.0.0.1:23730

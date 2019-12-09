@@ -1,0 +1,354 @@
+acquire 1 request from clt 127.0.0.1:19663
+acquire 2 request from clt 127.0.0.1:19663
+acquire 1 request from clt 127.0.0.1:19651
+revoke 1 to  clt 127.0.0.1:19663
+1572886457736:	handler_mgr::get_handle trying to bind...127.0.0.1:19663
+1572886457736:	handle_mgr::get_handle bind succeeded 127.0.0.1:19663
+release 1 request from clt 127.0.0.1:19663
+retry 1 to  clt 127.0.0.1:19651
+1572886457737:	handler_mgr::get_handle trying to bind...127.0.0.1:19651
+1572886457737:	handle_mgr::get_handle bind succeeded 127.0.0.1:19651
+acquire 1 request from clt 127.0.0.1:25862
+acquire 1 request from clt 127.0.0.1:19503
+acquire 1 request from clt 127.0.0.1:26008
+acquire 1 request from clt 127.0.0.1:26568
+acquire 1 request from clt 127.0.0.1:19663
+acquire 1 request from clt 127.0.0.1:19651
+revoke 1 to  clt 127.0.0.1:19651
+release 1 request from clt 127.0.0.1:19651
+retry 1 to  clt 127.0.0.1:19503
+1572886458742:	handler_mgr::get_handle trying to bind...127.0.0.1:19503
+1572886458742:	handle_mgr::get_handle bind succeeded 127.0.0.1:19503
+acquire 1 request from clt 127.0.0.1:19503
+revoke 1 to  clt 127.0.0.1:19503
+release 1 request from clt 127.0.0.1:19503
+retry 1 to  clt 127.0.0.1:19663
+acquire 1 request from clt 127.0.0.1:19663
+revoke 1 to  clt 127.0.0.1:19663
+release 1 request from clt 127.0.0.1:19663
+retry 1 to  clt 127.0.0.1:25862
+1572886460743:	handler_mgr::get_handle trying to bind...127.0.0.1:25862
+1572886460743:	handle_mgr::get_handle bind succeeded 127.0.0.1:25862
+acquire 1 request from clt 127.0.0.1:25862
+revoke 1 to  clt 127.0.0.1:25862
+release 1 request from clt 127.0.0.1:25862
+retry 1 to  clt 127.0.0.1:26008
+1572886461745:	handler_mgr::get_handle trying to bind...127.0.0.1:26008
+1572886461745:	handle_mgr::get_handle bind succeeded 127.0.0.1:26008
+acquire 1 request from clt 127.0.0.1:26008
+revoke 1 to  clt 127.0.0.1:26008
+release 1 request from clt 127.0.0.1:26008
+retry 1 to  clt 127.0.0.1:26568
+1572886462745:	handler_mgr::get_handle trying to bind...127.0.0.1:26568
+1572886462745:	handle_mgr::get_handle bind succeeded 127.0.0.1:26568
+acquire 1 request from clt 127.0.0.1:26568
+acquire 1 request from clt 127.0.0.1:19503
+revoke 1 to  clt 127.0.0.1:26568
+release 1 request from clt 127.0.0.1:26568
+retry 1 to  clt 127.0.0.1:19503
+acquire 1 request from clt 127.0.0.1:26568
+acquire 1 request from clt 127.0.0.1:19503
+revoke 1 to  clt 127.0.0.1:19503
+release 1 request from clt 127.0.0.1:19503
+retry 1 to  clt 127.0.0.1:26568
+acquire 1 request from clt 127.0.0.1:26568
+acquire 1 request from clt 127.0.0.1:26008
+revoke 1 to  clt 127.0.0.1:26568
+acquire 1 request from clt 127.0.0.1:19503
+release 1 request from clt 127.0.0.1:26568
+retry 1 to  clt 127.0.0.1:19503
+acquire 1 request from clt 127.0.0.1:19503
+revoke 1 to  clt 127.0.0.1:19503
+acquire 1 request from clt 127.0.0.1:25862
+acquire 1 request from clt 127.0.0.1:26568
+release 1 request from clt 127.0.0.1:19503
+retry 1 to  clt 127.0.0.1:25862
+acquire 1 request from clt 127.0.0.1:25862
+revoke 1 to  clt 127.0.0.1:25862
+acquire 1 request from clt 127.0.0.1:19503
+release 1 request from clt 127.0.0.1:25862
+retry 1 to  clt 127.0.0.1:19503
+acquire 1 request from clt 127.0.0.1:19651
+acquire 1 request from clt 127.0.0.1:25862
+acquire 1 request from clt 127.0.0.1:19503
+revoke 1 to  clt 127.0.0.1:19503
+release 1 request from clt 127.0.0.1:19503
+retry 1 to  clt 127.0.0.1:19651
+acquire 1 request from clt 127.0.0.1:19651
+revoke 1 to  clt 127.0.0.1:19651
+release 1 request from clt 127.0.0.1:19651
+retry 1 to  clt 127.0.0.1:25862
+acquire 1 request from clt 127.0.0.1:25862
+revoke 1 to  clt 127.0.0.1:25862
+acquire 1 request from clt 127.0.0.1:19503
+release 1 request from clt 127.0.0.1:25862
+retry 1 to  clt 127.0.0.1:19503
+acquire 1 request from clt 127.0.0.1:19651
+acquire 1 request from clt 127.0.0.1:25862
+acquire 1 request from clt 127.0.0.1:19503
+revoke 1 to  clt 127.0.0.1:19503
+release 1 request from clt 127.0.0.1:19503
+retry 1 to  clt 127.0.0.1:19651
+acquire 1 request from clt 127.0.0.1:19651
+revoke 1 to  clt 127.0.0.1:19651
+release 1 request from clt 127.0.0.1:19651
+retry 1 to  clt 127.0.0.1:25862
+acquire 1 request from clt 127.0.0.1:19503
+acquire 1 request from clt 127.0.0.1:19663
+acquire 1 request from clt 127.0.0.1:25862
+revoke 1 to  clt 127.0.0.1:25862
+acquire 1 request from clt 127.0.0.1:19651
+release 1 request from clt 127.0.0.1:25862
+retry 1 to  clt 127.0.0.1:19503
+acquire 1 request from clt 127.0.0.1:19503
+revoke 1 to  clt 127.0.0.1:19503
+acquire 1 request from clt 127.0.0.1:25862
+release 1 request from clt 127.0.0.1:19503
+retry 1 to  clt 127.0.0.1:19651
+acquire 1 request from clt 127.0.0.1:19651
+revoke 1 to  clt 127.0.0.1:19651
+release 1 request from clt 127.0.0.1:19651
+retry 1 to  clt 127.0.0.1:19663
+acquire 1 request from clt 127.0.0.1:19663
+revoke 1 to  clt 127.0.0.1:19663
+acquire 1 request from clt 127.0.0.1:19651
+release 1 request from clt 127.0.0.1:19663
+retry 1 to  clt 127.0.0.1:19651
+acquire 1 request from clt 127.0.0.1:19503
+acquire 1 request from clt 127.0.0.1:19663
+acquire 1 request from clt 127.0.0.1:19651
+revoke 1 to  clt 127.0.0.1:19651
+release 1 request from clt 127.0.0.1:19651
+retry 1 to  clt 127.0.0.1:19503
+acquire 1 request from clt 127.0.0.1:19503
+revoke 1 to  clt 127.0.0.1:19503
+release 1 request from clt 127.0.0.1:19503
+retry 1 to  clt 127.0.0.1:19663
+acquire 1 request from clt 127.0.0.1:19663
+revoke 1 to  clt 127.0.0.1:19663
+acquire 1 request from clt 127.0.0.1:19651
+release 1 request from clt 127.0.0.1:19663
+retry 1 to  clt 127.0.0.1:19651
+acquire 1 request from clt 127.0.0.1:19503
+acquire 1 request from clt 127.0.0.1:19651
+revoke 1 to  clt 127.0.0.1:19651
+acquire 1 request from clt 127.0.0.1:19663
+release 1 request from clt 127.0.0.1:19651
+retry 1 to  clt 127.0.0.1:19503
+acquire 1 request from clt 127.0.0.1:19503
+revoke 1 to  clt 127.0.0.1:19503
+acquire 1 request from clt 127.0.0.1:19651
+release 1 request from clt 127.0.0.1:19503
+retry 1 to  clt 127.0.0.1:19651
+acquire 1 request from clt 127.0.0.1:19651
+revoke 1 to  clt 127.0.0.1:19651
+acquire 1 request from clt 127.0.0.1:19503
+release 1 request from clt 127.0.0.1:19651
+retry 1 to  clt 127.0.0.1:19503
+acquire 1 request from clt 127.0.0.1:19503
+revoke 1 to  clt 127.0.0.1:19503
+acquire 1 request from clt 127.0.0.1:19651
+release 1 request from clt 127.0.0.1:19503
+retry 1 to  clt 127.0.0.1:19651
+acquire 1 request from clt 127.0.0.1:19651
+revoke 1 to  clt 127.0.0.1:19651
+acquire 1 request from clt 127.0.0.1:19503
+release 1 request from clt 127.0.0.1:19651
+retry 1 to  clt 127.0.0.1:19503
+acquire 1 request from clt 127.0.0.1:19503
+revoke 1 to  clt 127.0.0.1:19503
+acquire 1 request from clt 127.0.0.1:19651
+release 1 request from clt 127.0.0.1:19503
+retry 1 to  clt 127.0.0.1:19651
+acquire 1 request from clt 127.0.0.1:19651
+revoke 1 to  clt 127.0.0.1:19651
+acquire 1 request from clt 127.0.0.1:19503
+release 1 request from clt 127.0.0.1:19651
+retry 1 to  clt 127.0.0.1:19503
+acquire 1 request from clt 127.0.0.1:19503
+revoke 1 to  clt 127.0.0.1:19503
+acquire 1 request from clt 127.0.0.1:19651
+release 1 request from clt 127.0.0.1:19503
+retry 1 to  clt 127.0.0.1:19651
+acquire 1 request from clt 127.0.0.1:19651
+revoke 1 to  clt 127.0.0.1:19651
+release 1 request from clt 127.0.0.1:19651
+retry 1 to  clt 127.0.0.1:19663
+acquire 1 request from clt 127.0.0.1:19663
+revoke 1 to  clt 127.0.0.1:19663
+acquire 1 request from clt 127.0.0.1:19651
+release 1 request from clt 127.0.0.1:19663
+retry 1 to  clt 127.0.0.1:19651
+acquire 1 request from clt 127.0.0.1:19651
+revoke 1 to  clt 127.0.0.1:19651
+acquire 1 request from clt 127.0.0.1:19663
+release 1 request from clt 127.0.0.1:19651
+retry 1 to  clt 127.0.0.1:19663
+acquire 1 request from clt 127.0.0.1:19663
+revoke 1 to  clt 127.0.0.1:19663
+release 1 request from clt 127.0.0.1:19663
+retry 1 to  clt 127.0.0.1:25862
+acquire 1 request from clt 127.0.0.1:25862
+revoke 1 to  clt 127.0.0.1:25862
+acquire 1 request from clt 127.0.0.1:19663
+release 1 request from clt 127.0.0.1:25862
+retry 1 to  clt 127.0.0.1:19663
+acquire 1 request from clt 127.0.0.1:19663
+revoke 1 to  clt 127.0.0.1:19663
+acquire 1 request from clt 127.0.0.1:25862
+release 1 request from clt 127.0.0.1:19663
+retry 1 to  clt 127.0.0.1:25862
+acquire 1 request from clt 127.0.0.1:25862
+revoke 1 to  clt 127.0.0.1:25862
+acquire 1 request from clt 127.0.0.1:19663
+release 1 request from clt 127.0.0.1:25862
+retry 1 to  clt 127.0.0.1:19663
+acquire 1 request from clt 127.0.0.1:19663
+revoke 1 to  clt 127.0.0.1:19663
+acquire 1 request from clt 127.0.0.1:25862
+release 1 request from clt 127.0.0.1:19663
+retry 1 to  clt 127.0.0.1:25862
+acquire 1 request from clt 127.0.0.1:25862
+revoke 1 to  clt 127.0.0.1:25862
+acquire 1 request from clt 127.0.0.1:19663
+release 1 request from clt 127.0.0.1:25862
+retry 1 to  clt 127.0.0.1:19663
+acquire 1 request from clt 127.0.0.1:19663
+revoke 1 to  clt 127.0.0.1:19663
+acquire 1 request from clt 127.0.0.1:25862
+release 1 request from clt 127.0.0.1:19663
+retry 1 to  clt 127.0.0.1:25862
+acquire 1 request from clt 127.0.0.1:25862
+revoke 1 to  clt 127.0.0.1:25862
+acquire 1 request from clt 127.0.0.1:19663
+release 1 request from clt 127.0.0.1:25862
+retry 1 to  clt 127.0.0.1:19663
+acquire 1 request from clt 127.0.0.1:19663
+revoke 1 to  clt 127.0.0.1:19663
+acquire 1 request from clt 127.0.0.1:25862
+release 1 request from clt 127.0.0.1:19663
+retry 1 to  clt 127.0.0.1:25862
+acquire 1 request from clt 127.0.0.1:25862
+revoke 1 to  clt 127.0.0.1:25862
+acquire 1 request from clt 127.0.0.1:19663
+release 1 request from clt 127.0.0.1:25862
+retry 1 to  clt 127.0.0.1:19663
+acquire 1 request from clt 127.0.0.1:19663
+revoke 1 to  clt 127.0.0.1:19663
+release 1 request from clt 127.0.0.1:19663
+retry 1 to  clt 127.0.0.1:26008
+acquire 1 request from clt 127.0.0.1:25862
+acquire 1 request from clt 127.0.0.1:26008
+revoke 1 to  clt 127.0.0.1:26008
+acquire 1 request from clt 127.0.0.1:19663
+release 1 request from clt 127.0.0.1:26008
+retry 1 to  clt 127.0.0.1:19663
+acquire 1 request from clt 127.0.0.1:19663
+revoke 1 to  clt 127.0.0.1:19663
+release 1 request from clt 127.0.0.1:19663
+retry 1 to  clt 127.0.0.1:25862
+acquire 1 request from clt 127.0.0.1:26008
+acquire 1 request from clt 127.0.0.1:25862
+revoke 1 to  clt 127.0.0.1:25862
+release 1 request from clt 127.0.0.1:25862
+retry 1 to  clt 127.0.0.1:26008
+acquire 1 request from clt 127.0.0.1:26008
+revoke 1 to  clt 127.0.0.1:26008
+acquire 1 request from clt 127.0.0.1:25862
+release 1 request from clt 127.0.0.1:26008
+retry 1 to  clt 127.0.0.1:25862
+acquire 1 request from clt 127.0.0.1:25862
+revoke 1 to  clt 127.0.0.1:25862
+acquire 1 request from clt 127.0.0.1:26008
+release 1 request from clt 127.0.0.1:25862
+retry 1 to  clt 127.0.0.1:26008
+acquire 1 request from clt 127.0.0.1:26008
+revoke 1 to  clt 127.0.0.1:26008
+release 1 request from clt 127.0.0.1:26008
+retry 1 to  clt 127.0.0.1:26568
+acquire 1 request from clt 127.0.0.1:26568
+acquire 1 request from clt 127.0.0.1:26008
+revoke 1 to  clt 127.0.0.1:26568
+release 1 request from clt 127.0.0.1:26568
+retry 1 to  clt 127.0.0.1:26008
+acquire 1 request from clt 127.0.0.1:26008
+acquire 1 request from clt 127.0.0.1:19663
+revoke 1 to  clt 127.0.0.1:26008
+release 1 request from clt 127.0.0.1:26008
+retry 1 to  clt 127.0.0.1:19663
+acquire 1 request from clt 127.0.0.1:19663
+acquire 1 request from clt 127.0.0.1:19651
+revoke 1 to  clt 127.0.0.1:19663
+release 1 request from clt 127.0.0.1:19663
+retry 1 to  clt 127.0.0.1:19651
+acquire 1 request from clt 127.0.0.1:19651
+acquire 1 request from clt 127.0.0.1:19663
+revoke 1 to  clt 127.0.0.1:19651
+release 1 request from clt 127.0.0.1:19651
+retry 1 to  clt 127.0.0.1:19663
+acquire 1 request from clt 127.0.0.1:19663
+acquire 1 request from clt 127.0.0.1:19651
+revoke 1 to  clt 127.0.0.1:19663
+release 1 request from clt 127.0.0.1:19663
+retry 1 to  clt 127.0.0.1:19651
+acquire 1 request from clt 127.0.0.1:19651
+acquire 1 request from clt 127.0.0.1:19663
+revoke 1 to  clt 127.0.0.1:19651
+release 1 request from clt 127.0.0.1:19651
+retry 1 to  clt 127.0.0.1:19663
+acquire 1 request from clt 127.0.0.1:19663
+acquire 1 request from clt 127.0.0.1:19651
+revoke 1 to  clt 127.0.0.1:19663
+release 1 request from clt 127.0.0.1:19663
+retry 1 to  clt 127.0.0.1:19651
+acquire 1 request from clt 127.0.0.1:19651
+acquire 1 request from clt 127.0.0.1:19663
+revoke 1 to  clt 127.0.0.1:19651
+release 1 request from clt 127.0.0.1:19651
+retry 1 to  clt 127.0.0.1:19663
+acquire 1 request from clt 127.0.0.1:19663
+acquire 1 request from clt 127.0.0.1:19651
+revoke 1 to  clt 127.0.0.1:19663
+release 1 request from clt 127.0.0.1:19663
+retry 1 to  clt 127.0.0.1:19651
+acquire 1 request from clt 127.0.0.1:19651
+acquire 1 request from clt 127.0.0.1:19663
+revoke 1 to  clt 127.0.0.1:19651
+release 1 request from clt 127.0.0.1:19651
+retry 1 to  clt 127.0.0.1:19663
+acquire 1 request from clt 127.0.0.1:19663
+acquire 1 request from clt 127.0.0.1:19651
+revoke 1 to  clt 127.0.0.1:19663
+release 1 request from clt 127.0.0.1:19663
+retry 1 to  clt 127.0.0.1:19651
+acquire 1 request from clt 127.0.0.1:19663
+acquire 1 request from clt 127.0.0.1:19651
+revoke 1 to  clt 127.0.0.1:19651
+release 1 request from clt 127.0.0.1:19651
+retry 1 to  clt 127.0.0.1:19663
+acquire 1 request from clt 127.0.0.1:19663
+acquire 1 request from clt 127.0.0.1:19651
+revoke 1 to  clt 127.0.0.1:19663
+release 1 request from clt 127.0.0.1:19663
+retry 1 to  clt 127.0.0.1:19651
+acquire 1 request from clt 127.0.0.1:19651
+acquire 1 request from clt 127.0.0.1:19663
+revoke 1 to  clt 127.0.0.1:19651
+release 1 request from clt 127.0.0.1:19651
+retry 1 to  clt 127.0.0.1:19663
+acquire 1 request from clt 127.0.0.1:19663
+acquire 1 request from clt 127.0.0.1:19651
+revoke 1 to  clt 127.0.0.1:19663
+release 1 request from clt 127.0.0.1:19663
+retry 1 to  clt 127.0.0.1:19651
+acquire 1 request from clt 127.0.0.1:19663
+acquire 1 request from clt 127.0.0.1:19651
+revoke 1 to  clt 127.0.0.1:19651
+release 1 request from clt 127.0.0.1:19651
+retry 1 to  clt 127.0.0.1:19663
+acquire 1 request from clt 127.0.0.1:19663
+acquire 1 request from clt 127.0.0.1:19651
+revoke 1 to  clt 127.0.0.1:19663
+release 1 request from clt 127.0.0.1:19663
+retry 1 to  clt 127.0.0.1:19651
+acquire 1 request from clt 127.0.0.1:19651
